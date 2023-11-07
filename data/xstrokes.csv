@@ -1,4 +1,4 @@
-surface,yardage,xstrokes
+surface,distance,xstrokes
 Tee,1,1.263
 Tee,2,1.554
 Tee,3,1.767
@@ -762,7 +762,7 @@ Fairway,160,2.98
 Fairway,161,2.985
 Fairway,162,2.99
 Fairway,163,2.995
-Fairway,164,3.0
+Fairway,164,3
 Fairway,165,3.005
 Fairway,166,3.01
 Fairway,167,3.015
@@ -2078,7 +2078,7 @@ Sand,276,3.986
 Sand,277,3.99
 Sand,278,3.993
 Sand,279,3.997
-Sand,280,4.0
+Sand,280,4
 Sand,281,4.002
 Sand,282,4.004
 Sand,283,4.006
@@ -2281,7 +2281,7 @@ Sand,479,4.975
 Sand,480,4.98
 Sand,481,4.987
 Sand,482,4.993
-Sand,483,5.0
+Sand,483,5
 Sand,484,5.006
 Sand,485,5.013
 Sand,486,5.019
@@ -2399,7 +2399,7 @@ Sand,597,5.516
 Sand,598,5.517
 Sand,599,5.519
 Sand,600,5.52
-Green,1,1.0
+Green,1,1
 Green,2,1.01
 Green,3,1.05
 Green,4,1.14
